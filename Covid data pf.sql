@@ -1,3 +1,9 @@
+/* Covid 19 Data Exploration
+
+skill used: Insert, Delete, Aggregate Functions, Creating Views, Converting Data Types
+*/
+
+
 select * from PortfolioProject..CovidDeaths
 order by 3,4
 
